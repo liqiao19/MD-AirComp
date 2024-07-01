@@ -14,7 +14,13 @@ This repository contains code for [Massive Digital Over-the-Air Computation for 
 
    ```bash
    conda create --name MDAirComp python=3.8
-conda activate MDAirComp
+   conda activate MDAirComp
+
+2. Install required packages:
+
+   ```bash
+   pip install numpy tqdm pandas torch tensorboardX scikit-learn faiss-cpu scipy torchvision
+
 
 
 ## Visit Our Lab
