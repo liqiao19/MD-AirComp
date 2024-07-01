@@ -37,7 +37,7 @@ Check out our lab's research at [GaoZhen Lab](https://gaozhen16.github.io/) or [
 
 ### Citations
 
-If you use this project, please cite this project as:
+If you find this project useful, please cite the related original paper as:
 
 ```
 @article{qiao2024massive,
