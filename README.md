@@ -1,6 +1,20 @@
 # MD-AirComp
-Code for “Massive Digital Over-the-Air Computation for Communication-Efficient Federated Edge Learning”
+This repository contains code for [Massive Digital Over-the-Air Computation for Communication-Efficient Federated Edge Learning]. The project focuses on Uplink Multi-User MIMO over-the-air computation systems and its application in federated edge learning.
 
+## Installation
+
+### Prerequisites
+
+- Python >= 3.8
+- Anaconda or Miniconda (for creating virtual environments)
+
+### Setup
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/your_username/your_project.git
+   cd your_project
 
 
 ## Visit Our Lab
