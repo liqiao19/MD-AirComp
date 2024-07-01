@@ -30,6 +30,18 @@ This repository contains code for [Massive Digital Over-the-Air Computation for 
    
    ```bash
    python main_error_free_channel.py
-   
+
+## Citations
+
+If you use this project, please cite this project as:
+
+```
+@article{qiao2024massive,
+  title={Massive Digital Over-the-Air Computation for Communication-Efficient Federated Edge Learning},
+  author={Qiao, Li and Gao, Zhen and Mashhadi, Mahdi Boloursaz and G{\"u}nd{\"u}z, Deniz},
+  journal={arXiv preprint arXiv:2405.15969},
+  year={2024}
+}
+
 ## Visit Our Lab
 Check out our lab's research at [GaoZhen Lab](https://gaozhen16.github.io/) or [IPC Lab, Imperial College](https://www.imperial.ac.uk/information-processing-and-communications-lab/publications/). Discover our latest projects and meet the team!
