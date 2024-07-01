@@ -25,6 +25,7 @@ This repository contains code for [Massive Digital Over-the-Air Computation for 
 
    ```bash
    python main_MIMO_channel.py
+
    ```bash
    python main_error_free_channel.py
    
