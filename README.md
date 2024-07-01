@@ -10,11 +10,11 @@ This repository contains code for [Massive Digital Over-the-Air Computation for 
 
 ### Setup
 
-1. Clone the repository:
+1. Create a Conda environment:
 
    ```bash
-   git clone https://github.com/your_username/your_project.git
-   cd your_project
+   conda create --name MDAirComp python=3.8
+conda activate MDAirComp
 
 
 ## Visit Our Lab
