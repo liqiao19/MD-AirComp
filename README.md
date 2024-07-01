@@ -1,5 +1,5 @@
 # MD-AirComp
-This repository contains code for [Massive Digital Over-the-Air Computation for Communication-Efficient Federated Edge Learning]. The project focuses on Uplink Multi-User MIMO over-the-air computation systems and its application in federated edge learning.
+This repository contains code for [Massive Digital Over-the-Air Computation for Communication-Efficient Federated Edge Learning]（https://arxiv.org/abs/2405.15969）. The project focuses on uplink multi-user MIMO over-the-air computation systems and its application in federated edge learning.
 
 ## Installation
 
