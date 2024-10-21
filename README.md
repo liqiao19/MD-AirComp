@@ -41,8 +41,10 @@ If you find this project useful, please cite the related original paper as:
 
 ```
 @article{qiao2024massive,
-  title={Massive Digital Over-the-Air Computation for Communication-Efficient Federated Edge Learning},
-  author={Qiao, Li and Gao, Zhen and Mashhadi, Mahdi Boloursaz and G{\"u}nd{\"u}z, Deniz},
-  journal={arXiv preprint arXiv:2405.15969},
-  year={2024}
+  title={Massive digital over-the-air computation for communication-efficient federated edge learning},
+  author={Qiao, Li and Gao, Zhen and Mashhadi, Mahdi Boloursaz and G{\"u}und{\"u}z, Deniz},
+  journal={IEEE Journal on Selected Areas in Communications},
+  year={2024},
+  publisher={IEEE}
+}
 }
