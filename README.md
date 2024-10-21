@@ -47,4 +47,13 @@ If you find this project useful, please cite the related original paper as:
   year={2024},
   publisher={IEEE}
 }
+
+@inproceedings{qiao2023unsourced,
+  title={Unsourced massive access-based digital over-the-air computation for efficient federated edge learning},
+  author={Qiao, Li and Gao, Zhen and Li, Zhongxiang and G{\"u}nd{\"u}z, Deniz},
+  booktitle={2023 IEEE International Symposium on Information Theory (ISIT)},
+  pages={2003--2008},
+  year={2023},
+  organization={IEEE}
+}
 }
