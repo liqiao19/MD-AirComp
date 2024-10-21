@@ -19,7 +19,7 @@ This repository contains code for [Massive Digital Over-the-Air Computation for 
 2. Install required packages:
 
    ```bash
-   pip install numpy tqdm pandas torch tensorboardX scikit-learn faiss-cpu scipy torchvision
+   pip install numpy tqdm pandas tensorboardX scikit-learn faiss-cpu scipy torchvision
 
 3. To run the MIMO channel simulation:
 
